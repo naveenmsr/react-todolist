@@ -4,7 +4,7 @@ import logo from '../assets/logo.svg'
 const Header = () => (
     <div className="App-header container-full">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1 className="App-title">React todo app</h1>
+        <h1 className="App-title">React todo app under devlopment</h1>
     </div>
 )
 
