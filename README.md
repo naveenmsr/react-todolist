@@ -10,6 +10,4 @@ To view the app built with React/Redux & Firebase, check this repository: https:
 	npm test
 	npm run build
 
-Running from Development branch
-Test two for cicd
-Test three for cicd
+
